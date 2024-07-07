@@ -13,6 +13,8 @@
 可打包小程序｜H5网页｜苹果安卓包
 源码下载：https://hsopan.com/folder/f8c4a610207857bac06d822d23a9ffc6/ZhuanZhuan_H5
 
+后台环境 nginx 1.24 mysql 5.7 PHP 7.4 Redis 伪静态thinkphp 运行目录 public
+
 #### 截图
 
 ![输入图片说明](1965215bbba2d0a336bcc79372b9c06.png)
